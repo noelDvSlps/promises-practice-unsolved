@@ -26,10 +26,10 @@
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.3",
-    "node-fetch": "^3.3.1",
-    "vitest": "^0.29.7"
+    "node-fetch": "^3.3.1"
   },
   "devDependencies": {
-    "eslint": "^8.37.0"
+    "eslint": "^8.37.0",
+    "vitest": "^0.31.0"
   }
 }
